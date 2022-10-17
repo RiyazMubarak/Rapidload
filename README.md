@@ -1,2 +1,0 @@
-# Rapidload
-Rapid Load Plugin
